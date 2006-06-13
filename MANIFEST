@@ -1,0 +1,5 @@
+Build.pl
+lib/Acme/PM/Erlangen/SteffenW/BuildTest.pm
+MANIFEST			This list of files
+t/Acme-PM-Erlangen-SteffenW-BuildTest.t
+META.yml
