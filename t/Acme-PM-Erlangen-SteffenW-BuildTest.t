@@ -1,6 +1,8 @@
-use 5.6.1;
+#!perl -T
+
 use strict;
 use warnings;
+
 use Test::More tests => 5;
 BEGIN { use_ok('Acme::PM::Erlangen::SteffenW::BuildTest') }
 my $obj;

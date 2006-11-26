@@ -9,7 +9,7 @@ Module::Build->new(
     requires => {
         perl                => '5.6.1',
         'Test::More'        => '>= 0',
-        'Tie::Scalar'       => '>= 0',
+        #'Tie::Scalar'       => '>= 0',
         #'Other::Module'    => '>= 1.2, != 1.5, < 2.0',
         #create_makefile_pl => 'passthrough',
         #create_readme      => 1,

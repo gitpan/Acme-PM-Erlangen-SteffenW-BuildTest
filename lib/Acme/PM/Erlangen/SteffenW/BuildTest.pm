@@ -4,7 +4,7 @@ use 5.006;
 use strict;
 use warnings;
 
-our $VERSION = 0.001;
+our $VERSION = 0.002;
 
 sub new { (bless \do{my $scalar}, shift)->set(shift); }
 
@@ -48,7 +48,7 @@ Some tests before are better then too many test for real modules.
 
 =head1 AUTHOR
 
-Steffen Winkler, E<cpan@steffen-winkler.de>;
+Steffen Winkler, <cpan at steffen-winkler.de>
 
 =head1 COPYRIGHT AND LICENSE
 
